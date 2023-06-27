@@ -44,4 +44,6 @@ out/
 !**/src/test/**
 !aqa-shop.jar
 
+.idea/
+
 
