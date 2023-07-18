@@ -12,7 +12,7 @@
 ### Для запуска проекта необходимо: ###
 
 1. Выполнить в консоли команду: 
-   > "git clone https://github.com/Juli20221312/QADiploma<span>.</span>git"
+   > git clone <span> https://github.com/Juli20221312/QADiploma.git </span>
 2. Запустить на локальном компьютере Docker Desktop. 
 3. Запустить IntelliJ IDEA и в консоли запустить контейнер с помощью команды:  
 docker-compose up --build
